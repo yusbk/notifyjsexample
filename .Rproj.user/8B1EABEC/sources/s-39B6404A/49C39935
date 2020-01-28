@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1580248832385.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "49C39935",
+    "lastKnownWriteTime" : 1580249299,
+    "last_content_update" : 1580249299066,
+    "path" : "~/Seafile/documents_colin/R/opensource/notifyjsexample/R/mod_my_second_module.R",
+    "project_path" : "R/mod_my_second_module.R",
+    "properties" : {
+        "cursorPosition" : "50,0",
+        "scrollLine" : "7"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

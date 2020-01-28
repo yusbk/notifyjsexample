@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1580248928242.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "6AFF01F",
+    "lastKnownWriteTime" : 1580249441,
+    "last_content_update" : 1580249441058,
+    "path" : "~/Seafile/documents_colin/R/opensource/notifyjsexample/inst/app/www/custom.css",
+    "project_path" : "inst/app/www/custom.css",
+    "properties" : {
+        "cursorPosition" : "2,17",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "css"
+}

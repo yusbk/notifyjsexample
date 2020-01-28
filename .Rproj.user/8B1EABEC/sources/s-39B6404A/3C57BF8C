@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1580247693319.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "3C57BF8C",
+    "lastKnownWriteTime" : 1580248904,
+    "last_content_update" : 1580248904415,
+    "path" : "~/Seafile/documents_colin/R/opensource/notifyjsexample/dev/02_dev.R",
+    "project_path" : "dev/02_dev.R",
+    "properties" : {
+        "cursorPosition" : "37,0",
+        "scrollLine" : "14"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
